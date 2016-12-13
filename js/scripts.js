@@ -215,6 +215,6 @@
 	
 	
 	// Mobile
-	document.addEventListener('deviceready', onDeviceReady, false);
-	//window.addEventListener('load', onDeviceReady, false);
+	//document.addEventListener('deviceready', onDeviceReady, false);
+	window.addEventListener('load', onDeviceReady, false);
 	
